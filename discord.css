@@ -17,7 +17,7 @@
 	--font: 'gg sans';
 
 	/* top left corner text */
-	--corner-text: 'Discord by Nylium';
+	--corner-text: 'Discord by Nylium (1.0.0)';
 
 	/* color of status indicators and window controls */
 	--online-indicator: #a3be8c; /* change to #23a55a for default green */
