@@ -45,6 +45,6 @@
 //07.09.2024
 "... - jedyny znak który nie mówi nic a jednak daje spokój", //Chodzi o to, że lepsza odpowiedz która nic nie wnosi, ale jest i daje spokój, niż jej brak
 "Dobrze wiem gdy zrobie coś nie tak, zawsze wtedy dostane opierdol z GŁĘBOKIM wyjaśnieniem jakim zjebem jestem. Aż dziwne, że jedna osoba woli odejść w cień i zamknąć sie w sobie. Bardzo rozważne. Szkoda, że wtedy nie wiesz co zrobiłeś nie tak",
-"Milczenie jest złotem, podziwiam jak możesz być tak spokojny gdy się na ciebie wydzieram, to bardzo dojrzałe - mówił mi ojciec. Szkoda, że nie potrafie czasem zamknąc ryja na zawołanie",
+"Milczenie jest złotem, podziwiam jak możesz być tak spokojny mimo, że się na ciebie wydzieram, to bardzo dojrzałe - mówił mi ojciec. (to bardzo głupie, a nie dojrzałe ale spk) Szkoda, że nie potrafie czasem zamknąć ryja na zawołanie",
 "Jak żyć?",
-"Ludzie nie boją się upadków czy porażek. Boją się szczęścia, bo tak szybko jak sie pojawia, znika nieodwracalnie", //i tu w cale nie chodzi o mnie
+"Ludzie nie boją się upadków czy porażek. Boją się szczęścia, bo tak szybko jak sie pojawia, znika nieodwracalnie", //i tu w cale nie chodzi tylko o mnie
