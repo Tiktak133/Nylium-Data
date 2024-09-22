@@ -1,12 +1,12 @@
 :root {
     .resizeHandle_af5dbb{
-        left: -100000px!important;
+        left: -10000px!important;
     }
     
     @media (min-width: 1440px) {
         .drawerSizingWrapper_af5dbb {
-            height: calc(90vh * 0.9)!important;
-            transform: translateY(calc(500px - calc(90vh * 0.9))) translateX(63px);
+            height: calc(100% + calc(calc(60vh / 1.2) - 300px))!important;
+            transform: translateX(63px) translateY(calc(-1 * calc(calc(60vh / 1.2) - 300px)));
             width: 60%!important;
             max-width: 990px!important;
         }
@@ -15,9 +15,9 @@
     /* Styl dla średnich ekranów */
     @media (min-width: 1324px) and (max-width: 1439px) {
         .drawerSizingWrapper_af5dbb {
-            height: calc(90vh * 0.9)!important;
-            transform: translateY(calc(500px - calc(90vh * 0.9))) translateX(63px);
-            width: 62%!important;
+            height: calc(100% + calc(calc(60vh / 1.2) - 300px))!important;
+            width: calc(55%)!important;
+            transform: translate(63px, calc(-1 * calc(calc(60vh / 1.2) - 300px)));
             max-width: 990px!important;
         }
     }
@@ -25,9 +25,9 @@
     /* Styl dla małych ekranów */
     @media (min-width: 1050px) and (max-width: 1323px) {
         .drawerSizingWrapper_af5dbb {
-            height: calc(90vh * 0.9)!important;
-            transform: translateY(calc(500px - calc(90vh * 0.9))) translateX(63px);
-            width: 65%!important;
+            height: calc(100% + 200px)!important;
+            width: calc(70%)!important;
+            transform: scale(0.8) translate(calc(calc(17% + 93px) * 0.8) , calc(-200px * 0.8));
             max-width: 990px!important;
         }
     }
@@ -35,10 +35,10 @@
     /* Styl dla małych ekranów */
     @media (max-width: 1049px) {
         .drawerSizingWrapper_af5dbb {
-            height: calc(90vh * 0.9)!important;
-            transform: translateY(calc(500px - calc(90vh * 0.9))) translateX(11px);
-            width: 70%!important;
+            height: calc(100% + 100px)!important;
+            width: calc(100% + 0px)!important;
+            transform: scale(0.7) translate(calc(calc(17% + 107px) * 0.7), calc(-15px * 0.7));
             max-width: 990px!important;
         }
-    }
+    }    
 }

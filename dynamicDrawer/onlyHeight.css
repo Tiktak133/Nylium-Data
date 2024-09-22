@@ -1,32 +1,6 @@
 :root {
-    @media (min-width: 1440px) {
-        .drawerSizingWrapper_af5dbb {
-            height: calc(90vh * 0.9)!important;
-            transform: translateY(calc(500px - calc(90vh * 0.9))) translateX(63px);
-        }
-    }
-    
-    /* Styl dla średnich ekranów */
-    @media (min-width: 1324px) and (max-width: 1439px) {
-        .drawerSizingWrapper_af5dbb {
-            height: calc(90vh * 0.9)!important;
-            transform: translateY(calc(500px - calc(90vh * 0.9))) translateX(63px);
-        }
-    }
-    
-    /* Styl dla małych ekranów */
-    @media (min-width: 1050px) and (max-width: 1323px) {
-        .drawerSizingWrapper_af5dbb {
-            height: calc(90vh * 0.9)!important;
-            transform: translateY(calc(500px - calc(90vh * 0.9))) translateX(63px);
-        }
-    }
-    
-    /* Styl dla małych ekranów */
-    @media (max-width: 1049px) {
-        .drawerSizingWrapper_af5dbb {
-            height: calc(90vh * 0.9)!important;
-            transform: translateY(calc(500px - calc(90vh * 0.9))) translateX(11px);
-        }
+    .drawerSizingWrapper_af5dbb {
+        height: calc(100% + calc(calc(60vh / 1.2) - 300px))!important;
+        transform: translateX(63px) translateY(calc(-1 * calc(calc(60vh / 1.2) - 300px)));
     }
 }
