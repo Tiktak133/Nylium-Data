@@ -1,6 +1,10 @@
 :root {
+    .positionContainerOnlyEmoji_af5dbb{
+        transform: translateY(calc(50vh - 25vh))  translateX(26vw);
+    }
+
     .drawerSizingWrapper_af5dbb {
-        height: calc(100% + calc(calc(60vh / 1.2) - 300px))!important;
-        transform: translateX(63px) translateY(calc(-1 * calc(calc(60vh / 1.2) - 300px)));
+        height: calc(calc(90vh - 50px))!important;
+        transform: translateX(63px) translateY(calc(500px - calc(90vh - 50px)));
     }
 }
