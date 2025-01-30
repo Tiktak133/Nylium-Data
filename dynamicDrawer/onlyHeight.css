@@ -1,9 +1,9 @@
 :root {
-    .positionContainerOnlyEmoji_af5dbb{
+    .positionContainerOnlyEmoji__08434{
         transform: translateY(calc(50vh - 25vh))  translateX(26vw);
     }
 
-    .drawerSizingWrapper_af5dbb {
+    .drawerSizingWrapper__08434 {
         height: calc(calc(90vh - 50px))!important;
         transform: translateX(63px) translateY(calc(500px - calc(90vh - 50px)));
     }

@@ -1,14 +1,14 @@
 :root {
-    .resizeHandle_af5dbb{
+    .resizeHandle__08434{
         left: -10000px!important;
     }
     
-    .positionContainerOnlyEmoji_af5dbb{
+    .positionContainerOnlyEmoji__08434{
         transform: translateY(calc(50vh - 25vh))  translateX(26vw);
     }
 
     @media (min-width: 1440px) {
-        .drawerSizingWrapper_af5dbb {
+        .drawerSizingWrapper__08434 {
             height: calc(calc(90vh - 50px))!important;
             transform: translateX(63px) translateY(calc(500px - calc(90vh - 50px)));
             width: 60%!important;
@@ -18,7 +18,7 @@
     
     /* Styl dla średnich ekranów */
     @media (min-width: 1324px) and (max-width: 1439px) {
-        .drawerSizingWrapper_af5dbb {
+        .drawerSizingWrapper__08434 {
             height: calc(calc(90vh - 50px))!important;
             transform: translateX(63px) translateY(calc(500px - calc(90vh - 50px)));
             width: calc(55%)!important;
@@ -28,7 +28,7 @@
     
     /* Styl dla małych ekranów */
     @media (min-width: 1050px) and (max-width: 1323px) {
-        .drawerSizingWrapper_af5dbb {
+        .drawerSizingWrapper__08434 {
             height: calc(100% + 150px)!important;
             width: calc(78%)!important;
             transform: scale(0.8) translate(calc(calc(17% + 93px) * 0.8) , calc(-128px * 0.8));
@@ -38,7 +38,7 @@
     
     /* Styl dla małych ekranów */
     @media (max-width: 1049px) {
-        .drawerSizingWrapper_af5dbb {
+        .drawerSizingWrapper__08434 {
             height: calc(100% + 100px)!important;
             width: calc(100% + 0px)!important;
             transform: scale(0.7) translate(calc(calc(17% + 107px) * 0.7), calc(-15px * 0.7));
