@@ -4,7 +4,7 @@
     }
 
     .drawerSizingWrapper__08434 {
-        height: calc(calc(90vh - 50px))!important;
-        transform: translateX(63px) translateY(calc(500px - calc(90vh - 50px)));
+        height: calc(calc(90vh - 38px))!important;
+        transform: translateX(30px) translateY(calc(500px - calc(90vh - 30px)));
     }
 }

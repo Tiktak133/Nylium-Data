@@ -1,0 +1,107 @@
+:root {
+    .channelBottomBarArea_f75fb0 {
+        margin-bottom: -16px!important;
+    }
+
+    .base_b88801 {
+        margin-bottom: 55px;
+        border-color: #1C2226;
+    }
+
+    .app__160d8, .bg__960e4{
+         background: radial-gradient(circle at 60% 60%, #1C2229 0%, #1C2226 50%, #202124 100%);
+    }
+
+    .channelTextArea_f75fb0, .channelTextArea__74017{
+        background: radial-gradient(circle at 60% 60%, #1C2229 0%, #1C2226 50%, #202124 100%);
+    }
+
+    .panels_c48ade{
+        background-color: rgba(12, 12, 14, 0.45)
+    }
+
+    .scrollableContainer__74017, .themedBackground__74017, .container_faa96b, .mainCard_f369db, .header_f369db, .container_ca49a1{
+        background-color: rgba(12, 12, 14, 0.43)
+    }
+
+    .inner_c0bea0, .panel_c0bea0, .searchResult__02a39{
+        background-color: rgba(12, 12, 14, 0.2)
+    }
+
+    .outer_c0bea0, .content__908e2, .iconWrapper__7e6bb{
+        background-color: #15181d;
+    }
+
+    .loadingPopout__58f1c, .searchResultsWrap_a9e706, .container__01ae2, .container__34c2c{
+        background-color: transparent;
+    }
+
+    .chat_f75fb0, .container_f369db{
+        background-color: transparent;
+    }
+
+    .subtitleContainer_f75fb0{
+        background-color: transparent;
+    }
+
+    .thin__99f8c, .scrollerBase__99f8c, .fade__99f8c{
+        background-color: transparent;
+    }
+
+    .chatContent_f75fb0, .privateChannels__35e86, .scrollerSpacer__36d07, .resizeHandle__01ae2{
+        background-color: transparent;
+    }
+
+    .wrapper_ef3116, .guilds_c48ade, .container__2637a{
+        background-color: transparent;
+    }
+
+    .pointerCover_d125d2, .scrollerInner__36d07, .wrapper_d852db, .wrapper_fc8177 ,.cozy_fc8177{
+        background-color: transparent;
+    }
+
+    .title_f75fb0, .container__9293f, .themed__9293f{
+        background-color: transparent;
+    }
+
+    .children__9293f::after {
+        background: none !important;
+    }
+
+    .container_c8ffbb, .member__5d473, .member_c8ffbb, .container__91a9d, .clickable__91a9d{
+        background-color: transparent;
+    }
+
+    .sidebar_c48ade, .sidebar_c48ade::after{
+        background-color: transparent;
+    }
+
+    .buttonWrapper__24af7 svg{
+        max-height: 20px ;    
+    }
+
+    .container__133bf, .tabBody__133bf, .nowPlayingColumn__133bf, .container__7d20c{
+        background-color: transparent;
+    }
+
+    .searchBar__5ec2f, .container_a45028, .medium_a45028{
+        background-color: rgba(12, 12, 14, 0.40)
+    }
+
+    .embedFlexGrow_b7e1cb, .newMosaicStyle_cf09d8{
+        background-color: rgba(12, 12, 14, 0.40)
+    }
+
+    .privateChannelsHeaderContainer__99e7c{
+        margin-top: 10px;
+    }
+
+    .container__675e5, .marketingButtonBackground__4ed1a{
+        visibility: collapse;
+        height: 0;
+    }
+
+    .item__58105{
+        width: 9px;
+    }
+}

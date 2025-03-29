@@ -7,21 +7,21 @@
         transform: translateY(calc(50vh - 25vh))  translateX(26vw);
     }
 
-    @media (min-width: 1440px) {
+    @media (min-width: 1540px) {
         .drawerSizingWrapper__08434 {
-            height: calc(calc(90vh - 50px))!important;
-            transform: translateX(63px) translateY(calc(500px - calc(90vh - 50px)));
+            height: calc(calc(90vh - 38px))!important;
+            transform: translateX(30px) translateY(calc(500px - calc(90vh - 30px)));
             width: 60%!important;
             max-width: 990px!important;
         }
     }
     
     /* Styl dla średnich ekranów */
-    @media (min-width: 1324px) and (max-width: 1439px) {
+    @media (min-width: 1324px) and (max-width: 1539px) {
         .drawerSizingWrapper__08434 {
-            height: calc(calc(90vh - 50px))!important;
-            transform: translateX(63px) translateY(calc(500px - calc(90vh - 50px)));
-            width: calc(55%)!important;
+            height: calc(calc(90vh - 38px))!important;
+            transform: translateX(30px) translateY(calc(500px - calc(90vh - 30px)));
+            width: calc(45%)!important;
             max-width: 990px!important;
         }
     }
@@ -31,7 +31,7 @@
         .drawerSizingWrapper__08434 {
             height: calc(100% + 150px)!important;
             width: calc(78%)!important;
-            transform: scale(0.8) translate(calc(calc(17% + 93px) * 0.8) , calc(-128px * 0.8));
+            transform: scale(0.8) translate(calc(calc(17% + 34px) * 0.8) , calc(-128px * 0.8));
             max-width: 990px!important;
         }
     }
@@ -41,7 +41,7 @@
         .drawerSizingWrapper__08434 {
             height: calc(100% + 100px)!important;
             width: calc(100% + 0px)!important;
-            transform: scale(0.7) translate(calc(calc(17% + 107px) * 0.7), calc(-15px * 0.7));
+            transform: scale(0.7) translate(calc(calc(17% + 150px) * 0.7), calc(-15px * 0.7));
             max-width: 990px!important;
         }
     } 
